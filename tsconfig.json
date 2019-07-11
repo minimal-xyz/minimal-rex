@@ -12,7 +12,6 @@
     "jsx": "react",
     "lib": ["es2016", "dom"],
     "types": [],
-    "baseUrl": "./src/",
     "plugins": []
   }
 }

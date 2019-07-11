@@ -5,8 +5,11 @@ Minimal Rex
 ### Usage
 
 ```bash
+yarn
 yarn watch
 ```
+
+Visit http://localhost:8080 to run it.
 
 ### License
 
