@@ -18,6 +18,6 @@
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
-    "immer": "^8.0.1"
+    "immer": "^9.0.6"
   }
 }
